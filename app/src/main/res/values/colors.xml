@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <!-- Primary Color -->
+    <color name="primaryColor">#4CAF50</color>
+
+    <!-- Secondary Color -->
+    <color name="secondaryColor">#FF6347</color>
+
+    <!-- Accent Color -->
+    <color name="accentColor">#FFD700</color>
+
+    <!-- Background Color -->
+    <color name="backgroundColor">#FFF8E1</color>
+
+    <!-- Text Color -->
+    <color name="textColor">#333333</color>
+
+    <!-- Highlight Color -->
+    <color name="highlightColor">#8FBC8F</color>
+</resources>
